@@ -192,7 +192,7 @@ export default class Qualification extends React.Component {
      cardStyle:{padding:20,height:180,flex: 1,flexDirection: "row"},
      iconStyle:{backgroundColor:'#72b626' ,borderRadius:30},
      iconView:{backgroundColor:'#72b626',borderRadius:30,width:50,justifyContent: 'center',alignItems: 'center',padding:10},
-     borderStyle:{height:100,borderLeftWidth:1,color:'white',justifyContent: 'center',alignItems: 'center',marginLeft:24},
+     borderStyle:{height:100,borderLeftWidth:1,color:'white',justifyContent: 'center',alignItems: 'center',marginLeft:24,borderColor:"#ddd"},
      left:{flex:1},
      right:{flex:5,marginLeft:20},
      cardBodyHeadBackground:{borderRadius:30,backgroundColor:'#d7d7d7',width:60},

@@ -27,7 +27,7 @@ export default  function Screens({navigation,title}) {
     {/* <Header navigation={navigation} title={title}></Header> */}
     <ScrollView >
         <View >
-           <Main></Main>
+           
             </View>
       </ScrollView>
       </View>

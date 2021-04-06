@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     padding: 5,
     flexDirection: "row"
   },
-  textHead:{fontWeight:'bold',fontSize:20,color:'#666',paddingLeft:20,marginBottom:30,fontFamily:'sans-serif'},
+  textHead:{fontWeight:'bold',fontSize:20,color:'#666',paddingLeft:20,marginBottom:30},
   image:{width,height,resizeMode:'cover'},
   header:{
       fontSize:32,
