@@ -155,6 +155,249 @@ export default class Research extends React.Component {
                 </View>
                 
             </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                    10. 2017, D.Raju, “A New Approach for Data Cleaning”, rajurdara@gmail.com,9246411464, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                    11. 2017, K.Naveen Kumar, “Texture Segmentation Using Multivariate Generalised 
+                    Gaussian Mixture Model”, nkumarkuppili@gmail.com, 9963778239, JNTUK, Kakinada
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                12. 2017, G.Sushmitha Valli, “Design and Development of a Compromised system for the 
+                diagnosis, prognosis and cure of diabetic retinopathy”, susmitagv@gmail.com, 
+                9885211511, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                13. 2018, A.Gauthami Latha, “Novel Approaches To Domain Knowledge Representations 
+                for Content-Based Image Retrieval using Semantic Web”, gauthamilatha@gmail.com, 
+                9490228309, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                14. 2018, T.Jyothirmayi, “Studies on Image Segmentation Based on Generalized Laplace 
+                Mixture Model”, kbvrvsp@gmail.com, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                15. 2018, E.Sudharsan, “Parallel Approach for Backward Coding of Wavelet Trees With 
+                Cuda”, medasare@gmail.com, 7799036041, JNTU, Ananthapuram.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                16. 2018, P.Nageswara Reddy, “Development of efficient brain tumor segmentation 
+                algorithms for MR images”, pnageswarareddy@yahoo.com, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                17. 2019, Y.Sowjanya Kumari, Topic: Texture feature extraction from texture unit and 
+                LBP, sowji74@yahoo.co.in, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                18. 2019, P.Pavan Kumar, “Design and Development Of Soft Real-Time Scheduler For 
+                Enhancing the Shared Cache Performance in Multicore Systems”, 8977140144, 
+                JNTU, Ananthapuram.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                19. 2019, A. Chandra Mouli, “Quality Assessment of Software Growth Models under 
+                Residual Faults”, 9741551588, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                20. 2019, R.Venkata Rao, “Facial Age Estimation Based On Bivariate Gaussian Mixture 
+                Model”,venkatarao.rampay@gmail.com, 9640129737
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                21. 2019, S.Anuradha, “Content Based Image Retrieval (CBIR) using Adaptive Ground 
+                Truth Composition”, ganuharsh@yahoo.co.in, 8500268622
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                22. 2019, Rajeswari Goudar, “Remote monitoring of Computer Networks through Mobile 
+                Device”, 9689907465.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                    
+                23. A.V.Kavitha, “Unsupervised Linear Contact Distributions segmentation algorithm 
+                panchromatic images”, anubrolukavitha@gmail.com, 9490788712- JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                    
+                24. G.Chamundeswari, “Edge based Clustering Technique with Self-Organizing Maps”, 
+                ijarichamu@gmail.com, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
+            <View style={styles.cardStyle}>
+                <View style={styles.left}>
+                    <View style={styles.iconView}>
+                        <FontAwesome name="graduation-cap" size={24} color="white"  />
+                    </View>
+                    <View style={styles.borderStyle}></View>
+                </View>
+                <View style={styles.right}>
+                    
+                    <Text style={styles.cardBodyP1}>
+                25. P.Lalitha Kumari, “Novel approaches for feature extraction and pattern discovery models, JNTUK, Kakinada.
+                </Text>
+                </View>                
+            </View>
             
             <View style={styles.borderTopStyle}></View>
 

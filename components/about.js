@@ -70,7 +70,7 @@ const itemId = 1;
 
       <TouchableHighlight 
            style ={styles.buttonStyle}>
-            <Button title="DOWNLAOD CV"
+            <Button title="DOWNLOAD CV"
             color="white"
             accessibilityLabel="Learn more about this button"
           /> 

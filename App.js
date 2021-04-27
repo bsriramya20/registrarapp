@@ -102,15 +102,7 @@ import Research from './components/research';
       )
     }
 
-    const testRoute = () =>{
-      return(<Stack.Navigator  screenOptions={{
-      }} >
-      
-      {/* <Stack.Screen name="PUBLICTION " component={Banners} options={({navigation})=> ({
-        header: ()=> <Header navigation={navigation} title='PUBLICTION' />
-      })}/> */}
-     </Stack.Navigator>)
-    }
+  
   
 
 
@@ -133,7 +125,7 @@ export default class App extends React.Component {
            options={{ drawerIcon: config=><FontAwesome name="briefcase" size={24} color="#666"  /> }}  />
           <Drawer.Screen name="RESEARCH SCHOLARS" component={ResearchNav} 
            options={{ drawerIcon: config=><FontAwesome name="graduation-cap" size={24} color="#666"  /> }}  />
-          <Drawer.Screen name="AWARDS & HONORS" component={testRoute}
+          <Drawer.Screen name="AWARDS & HONORS" component={HomeNav}
           options={{ drawerIcon: config=><FontAwesome name="trophy" size={24} color="#666"  /> }} />
           <Drawer.Screen name="PUBLICATIONS" component={PublicationNav}
           options={{ drawerIcon: config=><FontAwesome name="book" size={24} color="#666"  /> }} />
